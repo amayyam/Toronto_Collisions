@@ -17,7 +17,7 @@ set.seed(304)
 # Define the date range
 start_date <- as.Date("2014-01-01")
 end_date <- as.Date("2024-12-31")
-number_of_rows <- 300  # Number of rows to simulate
+number_of_rows <- 500  # Number of rows to simulate
 
 # Generate simulated data
 collision_data <- tibble(

@@ -1,13 +1,12 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
-author: 
-  - First author
-  - Another author
+title: "Traffic Collision Analysis"
+subtitle: "Change in fatalities and injuries"
+author:
+  - Maryam Ansari
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "TBD"
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -24,6 +23,8 @@ library(palmerpenguins)
 
 
 # Introduction
+
+**Note: This is majorly incomplete.**
 
 You can and should cross-reference sections and sub-sections. We use @citeR and @rohan.
 
